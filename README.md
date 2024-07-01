@@ -63,6 +63,10 @@ There are multiple places you can share your solution:
 2. Share your repository and live URL in the **#finished-projects** channel of the [Slack community](https://www.frontendmentor.io/slack).
 3. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor** including the repo and live URLs in the tweet. We'd love to take a look at what you've built and help share it around.
 
+Project is Developed By:
+
+[Rushi Patel]-(https://www.linkedin.com/in/rushi-patel-193079266/)
+
 ## Giving feedback
 
 Feedback is always welcome, so if you have any to give on this challenge please email hi[at]frontendmentor[dot]io.
